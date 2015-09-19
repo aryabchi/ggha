@@ -1,1 +1,3 @@
-Dataset for PLS-PM analysis (MSR 2015)
+- GitHub dataset for PLS-PM analysis
+- PLS-PM research model in R
+- MSR 2015 submitted paper
